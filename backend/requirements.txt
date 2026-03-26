@@ -1,0 +1,5 @@
+flask
+SQLAlchemy
+PyJWT
+mysqlclient
+flask-cors
